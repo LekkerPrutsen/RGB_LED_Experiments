@@ -17,7 +17,7 @@ rgb_led_experiment02.py
 
 Like experiment 1, but now in a loop
 
-![Image](https://github.com/LekkerPrutsen/RGB_LED_Experiments/images/rgb_led_01.gif)
+![Image](https://github.com/LekkerPrutsen/RGB_LED_Experiments/blob/master/images/rgb_led_01.gif)
 
 ## Experiment 3: ##
 
@@ -31,5 +31,5 @@ Step 3: From Blue to Red
 
 ..in a loop
 
-![Image](https://github.com/LekkerPrutsen/RGB_LED_Experiments/images/rgb_led_02.gif)
+![Image](https://github.com/LekkerPrutsen/RGB_LED_Experiments/blob/master/images/rgb_led_02.gif)
 
