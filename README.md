@@ -2,8 +2,8 @@
 
 
 ## Setup: ##
-![Image](https://github.com/LekkerPrutsen/RGB_LED_Experiments/blob/master/images/rgb_led_01.gif)
 
+![Image](https://github.com/LekkerPrutsen/RGB_LED_Experiments/blob/master/images/rgb_led_bb.png)
 
 ## Experiment 1: ##
 
@@ -21,7 +21,8 @@ rgb_led_experiment02.py
 
 Like experiment 1, but now in a loop
 
-![Image](https://github.com/LekkerPrutsen/RGB_LED_Experiments/blob/master/images/rgb_led_bb.png)
+![Image](https://github.com/LekkerPrutsen/RGB_LED_Experiments/blob/master/images/rgb_led_01.gif)
+
 
 ## Experiment 3: ##
 
