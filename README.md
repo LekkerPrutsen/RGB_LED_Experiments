@@ -3,7 +3,7 @@
 
 ## Setup: ##
 
-![Image](https://github.com/LekkerPrutsen/RGB_LED_Experiments/blob/master/images/rgb_led_bb.png)
+![Image](https://github.com/LekkerPrutsen/RGB_LED_Experiments/blob/master/images/RGB_LED_bb.png)
 
 ## Experiment 1: ##
 
